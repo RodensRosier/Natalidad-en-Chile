@@ -1,5 +1,5 @@
 # Natalidad en Chile
-## Tasa de natalidad en Chile en comparación con las otras naciones
+### Tasa de natalidad en Chile en comparación con las otras naciones
 
 ### Fuentes
 • INE Chile - Estadísticas Vitales: La fuente primaria de nacimientos y defunciones. <br>
