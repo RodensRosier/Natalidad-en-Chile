@@ -38,8 +38,7 @@ Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminu
     git clone https://github.com
     cd brecha-salarial-chile
     pip install -r requirements.txt
-    python main.py
-    Use code with caution.
+    python script.py
 ```
 
 ### Fuentes
