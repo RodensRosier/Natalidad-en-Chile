@@ -1,11 +1,11 @@
 # Natalidad en Chile
-### Tasa de natalidad en Chile en comparación con las otras naciones.
+Tasa de natalidad en Chile en comparación con las otras naciones.
 
 ### Stack Tecnológico
 **• Lenguaje de programación:** Python 3.10 <br>
 **• SQL**
 **• Librerías de Análisis:** Pandas, NumPy <br>
-**• Visualización:** Tableau
+**• Visualización:** Tableau <br>
 **• Entorno Cloud:** GCP (Google Cloud Platform) BigQuery para el procesamiento masivo.
 
 ### Metodología (Pipeline ETL)
