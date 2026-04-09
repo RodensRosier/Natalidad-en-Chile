@@ -11,7 +11,7 @@ Tasa de natalidad en Chile en comparación con las otras naciones.
 ### Metodología (Pipeline ETL)
 **• Extracción:** Obtención de microdatos desde el portal de datos abiertos del INE Chile. <br>
 **• Transformación (Limpieza):** Tratamiento de valores nulos y registros atípicos (outliers) y normalización de variables de ingresos y categorías de ocupación. <br>
-**• Análisis:** Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción.
+**• Análisis:** Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
 **• Carga/Visualización:** Exportación de resultados a un Dashboard interactivo en Tableau.
 
 ### Hallazgos Claves
