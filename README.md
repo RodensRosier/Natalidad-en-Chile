@@ -3,7 +3,7 @@
 
 ### Stack Tecnológico
 **• Lenguaje de programación:** Python 3.10 <br>
-^^• SQL**
+**• SQL**
 **• Librerías de Análisis:** Pandas, NumPy <br>
 **• Visualización:** Tableau
 **• Entorno Cloud:** Google Cloud Platform <br>
