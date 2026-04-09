@@ -1,11 +1,6 @@
 # Natalidad en Chile
 ### Tasa de natalidad en Chile en comparación con las otras naciones
 
-# Canasta Básica e Inflación en Chile 
-### Análisis de la variación de la canasta básica y ajuste de la inflación (2016-2026)
-
-### Descripción del Proyecto
-
 ### Stack Tecnológico
 Lenguaje: Python 3.10
 Librerías de Análisis: Pandas, NumPy
