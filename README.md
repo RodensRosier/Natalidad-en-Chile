@@ -2,7 +2,7 @@
 ### Tasa de natalidad en Chile en comparación con las otras naciones
 
 ### Stack Tecnológico
-** • Lenguaje de programación:** Python 3.10 <br>
+**• Lenguaje de programación:** Python 3.10 <br>
 • SQL
 • Librerías de Análisis: Pandas, NumPy <br>
 • Visualización: Tableau
