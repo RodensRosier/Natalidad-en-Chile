@@ -22,7 +22,7 @@
 ### Estructura del Repositorio
 **• /data:** Diccionarios de datos y fuentes. <br>
 **• /notebooks:** Jupyter Notebooks con el Análisis Exploratorio (EDA). <br>
-** •/scripts:** Scripts de Python para la automatización del proceso.
+**• /scripts:** Scripts de Python para la automatización del proceso.
 
 ### Dashboard y gráficos estadísticos.
 <br>
