@@ -20,9 +20,9 @@
 **• Efecto Educación:** A mayor nivel educativo, la brecha tiende a [aumentar/disminuir] según los datos procesados.
 
 ### Estructura del Repositorio
-/data: Diccionarios de datos y fuentes. <br>
-/notebooks: Jupyter Notebooks con el Análisis Exploratorio (EDA). <br>
-/scripts: Scripts de Python para la automatización del proceso.
+**• /data:** Diccionarios de datos y fuentes. <br>
+**• /notebooks:** Jupyter Notebooks con el Análisis Exploratorio (EDA). <br>
+** •/scripts:** Scripts de Python para la automatización del proceso.
 
 ### Dashboard y gráficos estadísticos.
 <br>
