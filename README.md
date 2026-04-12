@@ -27,7 +27,7 @@ Tasa de natalidad en Chile en comparación con las otras naciones.
 <br>
 
 ### Cómo Ejecutar el Proyecto
-```
+```bash
     git clone https://github.com
     cd brecha-salarial-chile
     pip install -r requirements.txt
