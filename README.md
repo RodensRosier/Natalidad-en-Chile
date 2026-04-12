@@ -1,5 +1,5 @@
 # Natalidad en Chile
-Tasa de natalidad en Chile en comparación con las otras naciones.
+Análisis de la tasa de natalidad en Chile
 
 ### Stack Tecnológico
 **• Lenguajes de programación:** Python 3.10, SQL. <br>
