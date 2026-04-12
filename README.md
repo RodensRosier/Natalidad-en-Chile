@@ -1,6 +1,11 @@
 # Natalidad en Chile
 Análisis de la tasa de natalidad en Chile
 
+### Fuentes
+**• INE Chile - Estadísticas Vitales:** La fuente primaria de nacimientos y defunciones. <br>
+**• DEIS (Ministerio de Salud):** Datos sobre partos y salud reproductiva.<br>
+**• CELADE (División de Población de la CEPAL):** Para comparar la situación de Chile con el resto de Latinoamérica.
+
 ### Stack Tecnológico
 **• Lenguajes de programación:** Python 3.10, SQL. <br>
 **• Librerías de Análisis:** Pandas, NumPy. <br>
@@ -33,8 +38,3 @@ Análisis de la tasa de natalidad en Chile
     pip install -r requirements.txt
     python script.py
 ```
-
-### Fuentes
-**• INE Chile - Estadísticas Vitales:** La fuente primaria de nacimientos y defunciones. <br>
-**• DEIS (Ministerio de Salud):** Datos sobre partos y salud reproductiva.<br>
-**• CELADE (División de Población de la CEPAL):** Para comparar la situación de Chile con el resto de Latinoamérica.
